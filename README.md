@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm r0xd4n3t</h1>
-<h3 align="center">"r0x d4 n3t!"</h3>
+<h3 align="center">"lets r0x d4 n3t!"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0xd4n3t&label=Profile%20views&color=0e75b6&style=flat" alt="r0xd4n3t" /> </p>
 
