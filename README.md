@@ -19,6 +19,16 @@
   <img src="https://github-readme-stats.vercel.app/api?username=r0xd4n3t&show_icons=true&locale=en&theme=cobalt" alt="GitHub Stats">
 </p>
 
+<!-- GitHub streak-stats -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=r0xd4n3t&theme=tokyonight&hide_border=true" alt="streak-stats">
+</p>
+
+<!-- GitHub activity-graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=r0xd4n3t&area=true&theme=tokyo-night&hide_border=true" alt="activity-graph">
+</p>
+
 <!-- Languages and Tools -->
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
