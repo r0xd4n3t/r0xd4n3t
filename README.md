@@ -16,7 +16,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=r0xd4n3t&show_icons=true&locale=en&theme=cobalt" alt="GitHub Stats">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=r0xd4n3t&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" alt="GitHub Stats">
 </p>
 
 <!-- GitHub streak-stats -->
