@@ -21,7 +21,7 @@
 
 <!-- GitHub streak-stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=r0xd4n3t&theme=tokyonight&hide_border=true" alt="streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=r0xd4n3t&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="streak-stats">
 </p>
 
 <!-- GitHub activity-graph -->
