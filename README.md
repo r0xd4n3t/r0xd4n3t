@@ -16,10 +16,6 @@ Security enthusiast focused on breaking, securing and understanding systems.
 <img src="https://img.shields.io/badge/PENETRATION%20TESTING-0D1117?style=for-the-badge&logo=kalilinux&logoColor=58A6FF" alt="Penetration Testing" />
 <img src="https://img.shields.io/badge/SECURITY%20RESEARCH-0D1117?style=for-the-badge&logo=securityscorecard&logoColor=58A6FF" alt="Security Research" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=r0xd4n3t&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
@@ -31,10 +27,11 @@ Security enthusiast focused on breaking, securing and understanding systems.
 [+] Penetration Testing
 [+] Vulnerability Assessment
 [+] Web Application Security
+[+] Infrastructure Security
 [+] Linux & Security Engineering
 [+] Security Automation
-[+] Threat Research
-[+] Continuous Learning
+[+] Threat Intelligence
+[+] Security Research
 ```
 
 > Build. Break. Understand. Secure.
@@ -81,57 +78,6 @@ Security Research
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions" />
-
-</div>
-
----
-
-## 📊 GitHub Intelligence
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/r0xd4n3t/r0xd4n3t/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub Profile Details" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/r0xd4n3t/r0xd4n3t/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per Language" />
-<img src="https://raw.githubusercontent.com/r0xd4n3t/r0xd4n3t/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
-
-<br>
-
-<img src="https://raw.githubusercontent.com/r0xd4n3t/r0xd4n3t/main/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
-<img src="https://raw.githubusercontent.com/r0xd4n3t/r0xd4n3t/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<a href="https://github.com/r0xd4n3t">
-  <img
-    src="https://streak-stats.demolab.com/?user=r0xd4n3t&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF"
-    alt="GitHub Streak"
-  />
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<a href="https://github.com/r0xd4n3t">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=r0xd4n3t&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&custom_title=r0xd4n3t%20Contribution%20Graph"
-    width="100%"
-    alt="GitHub Activity Graph"
-  />
-</a>
 
 </div>
 
